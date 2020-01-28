@@ -1,0 +1,12 @@
+C:\Users\Александр\source\repos\SPZ_Lab3\SPZ_Lab3\bin\Release\SPZ_Lab3.exe.config
+C:\Users\Александр\source\repos\SPZ_Lab3\SPZ_Lab3\bin\Release\SPZ_Lab3.exe
+C:\Users\Александр\source\repos\SPZ_Lab3\SPZ_Lab3\bin\Release\SPZ_Lab3.pdb
+C:\Users\Александр\source\repos\SPZ_Lab3\SPZ_Lab3\obj\Release\SPZ_Lab3.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\SPZ_Lab3\SPZ_Lab3\obj\Release\SPZ_Lab3.ComputerCreatingForm.resources
+C:\Users\Александр\source\repos\SPZ_Lab3\SPZ_Lab3\obj\Release\SPZ_Lab3.DeviceCreatingForm.resources
+C:\Users\Александр\source\repos\SPZ_Lab3\SPZ_Lab3\obj\Release\SPZ_Lab3.DeviceManagerForm.resources
+C:\Users\Александр\source\repos\SPZ_Lab3\SPZ_Lab3\obj\Release\SPZ_Lab3.Properties.Resources.resources
+C:\Users\Александр\source\repos\SPZ_Lab3\SPZ_Lab3\obj\Release\SPZ_Lab3.csproj.GenerateResource.cache
+C:\Users\Александр\source\repos\SPZ_Lab3\SPZ_Lab3\obj\Release\SPZ_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\SPZ_Lab3\SPZ_Lab3\obj\Release\SPZ_Lab3.exe
+C:\Users\Александр\source\repos\SPZ_Lab3\SPZ_Lab3\obj\Release\SPZ_Lab3.pdb
